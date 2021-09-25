@@ -6,10 +6,12 @@ body {
   line-height: 150%;**/
 }
 #videobackground {
-  object-fit: cover;
-  width: 100vw;
-  height: 100vh;
-  position: fixed;
-  top: 0;
-  left: 0;
+    position: absolute;
+    object-fit: cover;
+    object-position: center center;
+    z-index: -1;
+    width: 100%;
+    height: auto;
+    top: 0;
+    left: 0;
 }
