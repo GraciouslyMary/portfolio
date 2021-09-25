@@ -1,13 +1,13 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #fff;
-  background-image: url('github_images/desktop_background.gif');
-  background-size: cover;
-  height: 100vh;
-  padding:0;
-  margin:0;
-  
   /**margin: 0 15% 0;
   font-size: 100%;
   line-height: 150%;**/
+}
+#videobackground {
+  position: fixed;
+  z-index: -1;
+  width: 100%;
+  height: auto;
 }
