@@ -1,14 +1,15 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #fff;
-  padding: 0;
   /**margin: 0 15% 0;
   font-size: 100%;
   line-height: 150%;**/
 }
 #videobackground {
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
   position: fixed;
-  z-index: -1;
-  width: 100%;
-  height: auto;
+  top: 0;
+  left: 0;
 }
