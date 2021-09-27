@@ -34,6 +34,18 @@ width: 100%;
   .video-container > video {
     width: 100%;
   }
+   @media screen and (orientation: landscape) {
+      html {
+        transform: rotate(-90deg);
+        transform-origin: left top;
+        width: 100vh;
+        height: 100vw;
+        overflow-x: hidden;
+        position: absolute;
+        top: 100%;
+        left: 0;
+      }
+    }
 }
 }
 }
