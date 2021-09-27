@@ -14,16 +14,22 @@ width: 100%;
   left: 0;
   z-index: -1;**/
 #videobackground {
+width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+}
 
-  min-width: 100%; 
-  min-height: 100%; 
-
-  width: auto;
-  height: auto;
-
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%,-50%);
+@media (max-width: 750px) {
+    #videobackground { display: none; }
+    body {
+      background: url("github_images/gradient_background.png") no-repeat;
+      background-size: cover;
+    }
 }
 }
