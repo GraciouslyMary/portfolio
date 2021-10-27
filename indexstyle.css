@@ -2,7 +2,7 @@ body{ height:100vh; margin:0; }
 
 
 header{ min-height:50px; }
-footer{ min-height:50px, background: #C86654; }
+footer{ min-height:50px; background: #C86654; }
 
 #avatar {
   width: 50%;
