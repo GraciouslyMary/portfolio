@@ -1,20 +1,31 @@
-html {
-  height: 100%;
-}
+html,
 body {
   font-family: "Open Sans", sans-serif;
   color: #fff;
   background-color: #EDAEA0;
-  min-height: 100%;
+  margin: 0;
+  padding: 0;
+  height: 100%;
   /**margin: 0 15% 0;
   font-size: 100%;
   line-height: 150%;**/
 }
-footer {
-    clear: both;
-    position: relative;
-    height: 200px;
-    margin-top: -200px;
+#container {
+  min-height: 100%;
+  position: relative;
+}
+#header {
+  padding: 10px;
+}
+#body {
+  padding: 10px;
+  padding-bottom: 60px;
+}
+#footer {
+    position: absolute;
+    bottom: 0;
+  width: 100%;
+  height: 60px;
   background-color: #C86654;
 }
 /**#videobackground {
