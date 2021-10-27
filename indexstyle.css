@@ -1,6 +1,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #fff;
+  background-color: #EDAEA0;
   /**margin: 0 15% 0;
   font-size: 100%;
   line-height: 150%;**/
@@ -12,7 +13,7 @@ width: 100%;
   position: fixed;
   top: 0;
   left: 0;
-  z-index: -1;**/
+  z-index: -1;
 .video-container {
  position: absolute;
   top: 0;
@@ -34,7 +35,7 @@ width: 100%;
   .video-container > video {
     width: 100%;
   }
- /**  @media screen and (orientation: landscape) {
+   @media screen and (orientation: landscape) {
       html {
         transform: rotate(-90deg);
         transform-origin: left top;
@@ -45,16 +46,16 @@ width: 100%;
         top: 100%;
         left: 0;
       }
-    } **/
+    } 
   @media only screen and (pointer: coarse) and (min-width: 320px) and (max-width: 812px) and (orientation: landscape) {
   html {
-  /**  transform: rotate(-90deg);
+    transform: rotate(-90deg);
     transform-origin: left top;
     width: 100vh;
     overflow-x: hidden;
     position: absolute;
     top: 100%;
-    left: 0; **/
+    left: 0; 
        transform: rotate(-90deg);
         transform-origin: left top;
         width: 100vh;
@@ -63,8 +64,8 @@ width: 100%;
         position: absolute;
         top: 100%;
         left: 0;
-  }
+  } 
 }
 }
-}
-}
+} 
+} **/
