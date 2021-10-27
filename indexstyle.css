@@ -1,6 +1,6 @@
 body{ height:100vh; margin:0; }
 
-header{ min-height:50px; background:lightcyan; }
+header{ min-height:50px }
 footer{ min-height:50px; background: #C86654; }
 
 body{ 
