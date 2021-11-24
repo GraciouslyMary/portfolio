@@ -37,26 +37,26 @@ footer{
   display: block;
 }
 
-#resume {
-    width: 184px;
-    height: 279px;
-    background: url(spritesheet.png) -0px -0px;
+#social {
+    width: 296px;
+    height: 296px;
+    background: url(css_sprites.png) -0px -0px;
 }
 
 #works {
-    width: 276px;
-    height: 230px;
-    background: url(spritesheet.png) -184px -0px;
+    width: 296px;
+    height: 250px;
+    background: url(css_sprites.png) -296px -0px;
 }
 
-#social {
-    width: 272px;
-    height: 278px;
-    background: url(spritesheet.png) -464px -0px;
+#resume {
+    width: 205px;
+    height: 296px;
+    background: url(css_sprites.png) -592px -0px;
 }
 
 #contact {
-    width: 279px;
-    height: 205px;
-    background: url(spritesheet.png) -736px -0px;
+    width: 298px;
+    height: 225px;
+    background: url(css_sprites.png) -0px -296px;
 }
