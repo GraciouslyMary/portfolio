@@ -43,26 +43,26 @@ img {
   display: block;
 }
 
-#social {
-    width: 296px;
-    height: 296px;
+#works {
+    width: 140px;
+    height: 120px;
     background: url(css_sprites.png) -0px -0px;
 }
 
-#works {
-    width: 296px;
-    height: 250px;
-    background: url(css_sprites.png) -296px -0px;
-}
-
-#resume {
-    width: 205px;
-    height: 296px;
-    background: url(css_sprites.png) -592px -0px;
+#social {
+    width: 122px;
+    height: 122px;
+    background: url(css_sprites.png) -140px -0px;
 }
 
 #contact {
-    width: 298px;
-    height: 225px;
-    background: url(css_sprites.png) -0px -296px;
+    width: 137px;
+    height: 110px;
+    background: url(css_sprites.png) -262px -0px;
+}
+
+#resume {
+    width: 116px;
+    height: 140px;
+    background: url(css_sprites.png) -0px -120px;
 }
