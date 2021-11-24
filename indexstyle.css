@@ -26,14 +26,13 @@ footer{
   padding: 0 4px;
 }
 
-/* Create two equal columns that sits next to each other */
 .column {
-  padding: 0 4px;
+  padding: 10px 10px;
 }
 
 .column img {
   margin-top: 8px;
-  vertical-align: middle;
-  display: block;
+  vertical-align: bottom;
+  /**display: block;**/
 }
 
