@@ -20,12 +20,12 @@ footer{
   margin-top:auto; 
 }
 
-div.gallery {
+/**div.gallery {
   border: 1px solid #ccc;
-}
+}**/
 
 div.gallery:hover {
-  border: 1px solid #777;
+  filter: opacity(25%);
 }
 
 div.gallery img {
