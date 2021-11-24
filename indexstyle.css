@@ -20,6 +20,10 @@ footer{
   margin-top:auto; 
 }
 
+ul { 
+  width: 50%; 
+}
+
 .multi-column {
  /**  -moz-column-count: 2;
    -moz-column-gap: 20px;
