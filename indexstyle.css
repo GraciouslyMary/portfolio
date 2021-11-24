@@ -29,7 +29,7 @@ div.gallery:hover {
 }
 
 div.gallery img {
-  width: 100%;
+  /**width: 100%;**/
   height: auto;
 }
 
@@ -38,9 +38,6 @@ div.desc {
   text-align: center;
 }
 
-* {
-  box-sizing: border-box;
-}
 
 .responsive {
   padding: 0 6px;
