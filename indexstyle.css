@@ -33,6 +33,7 @@ img {
   margin: 0;
   padding: 0;
   list-style: none;
+  filter: drop-shadow(0.35rem 0.35rem 0.4rem rgba(0, 0, 0, 0.5));
  /** position: absolute; **/
   top: 0;
 }
