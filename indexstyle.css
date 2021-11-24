@@ -20,53 +20,20 @@ footer{
   margin-top:auto; 
 }
 
-/**div.gallery {
-  border: 1px solid #ccc;
-}**/
-
-div.gallery:hover {
-  filter: opacity(25%);
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
 }
 
-div.gallery img {
-  /**width: 100%;**/
-  height: auto;
+/* Create two equal columns that sits next to each other */
+.column {
+  padding: 0 4px;
 }
 
-div.desc {
-  padding: 15px;
-  /**text-align: center;**/
-}
-
-
-.responsive {
-  padding: 0 6px;
-  float: left;
-  width: 24.99999%;
-}
-
-@media only screen and (max-width: 700px) {
-  .responsive {
-    width: 49.99999%;
-    margin: 6px 0;
-  }
-}
-
-@media only screen and (max-width: 500px) {
-  .responsive {
-    width: 100%;
-  }
-}
-
-.clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-@media screen and (max-width: 500px) {
-  .column {
-    width: 100%;
-  }
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  display: block;
 }
 
