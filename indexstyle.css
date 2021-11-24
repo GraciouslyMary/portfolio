@@ -78,3 +78,14 @@ ul {
     height: 140px;
     background: url(css_sprites.png) -0px -120px;
 }
+
+@media (max-width: 768px) {
+ul { 
+  text-align: center;
+  text-decoration: none;
+  list-style-type: none; 
+  margin: 0;
+  overflow: hidden; 
+  float: left;
+  width: 100%;
+}
