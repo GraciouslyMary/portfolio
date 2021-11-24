@@ -20,19 +20,26 @@ footer{
   margin-top:auto; 
 }
 
-.row {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0 4px;
+#resume {
+    width: 184px;
+    height: 279px;
+    background: url(spritesheet.png) -0px -0px;
 }
 
-.column {
-  padding: 10px 10px;
+#works {
+    width: 276px;
+    height: 230px;
+    background: url(spritesheet.png) -184px -0px;
 }
 
-.column img {
-  margin-top: 8px;
-  vertical-align: bottom;
-  /**display: block;**/
+#social {
+    width: 272px;
+    height: 278px;
+    background: url(spritesheet.png) -464px -0px;
 }
 
+#contact {
+    width: 279px;
+    height: 205px;
+    background: url(spritesheet.png) -736px -0px;
+}
