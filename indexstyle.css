@@ -29,6 +29,11 @@ td {
   vertical-align: bottom;
 }
 
+#web_cell
+{
+    margin: 0 2px;    
+}
+
 #aboutme {
   padding-left: 25%;
 }
