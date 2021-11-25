@@ -43,3 +43,14 @@ td {
   max-width: 20%;
   margin: 0 2.5%;
 }
+
+.container img {
+position:absolute;
+right:0;
+top:0;
+}
+
+.container .table-div {
+position:relative; 
+padding-right:'images-width';
+}
