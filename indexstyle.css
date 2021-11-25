@@ -38,13 +38,8 @@ td {
   padding-left: 25%;
 }
 
-.images {
-  display: inline-block;
-  max-width: 20%;
-  margin: 0 2.5%;
-}
 
-.container img {
+/**.container img {
 position:absolute;
 right:0;
 top:0;
@@ -53,4 +48,4 @@ top:0;
 .container .table_div {
 position:relative; 
 padding-right:'images-width';
-}
+}**/
