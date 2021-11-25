@@ -34,6 +34,12 @@ td {
     padding-left: 5px;    
 }
 
-#aboutme {
+#about_me {
   padding-left: 25%;
+}
+
+.images {
+  display: inline-block;
+  max-width: 20%;
+  margin: 0 2.5%;
 }
