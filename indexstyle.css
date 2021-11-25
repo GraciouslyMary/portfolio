@@ -25,6 +25,10 @@ table {
   padding-top: 30px;
 }
 
+td {
+  vertical-align: bottom;
+}
+
 #aboutme {
   padding-left: 25%;
 }
