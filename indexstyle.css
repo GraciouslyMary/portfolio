@@ -1,4 +1,4 @@
-body{ height:100vh; margin:0; }
+body{ margin:0; }
 
 
 header{ min-height:50px; }
@@ -21,12 +21,8 @@ footer{
 }
 
 table {
-  font-family: open-sans, sans-serif;
-  font-weight: 700;
-  font-style: normal;
   padding-left: 30px;
   padding-top: 30px;
-  text-align: center;
 }
 
 #aboutme {
