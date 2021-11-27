@@ -43,7 +43,8 @@ td {
    .responsive_img {
     max-width: 100%;
      height: auto;
-    margin: 5px 0 10px -50px;
+     margin-left: -22%;
+    /**margin: 5px 0 10px -50px;**/
   }
 }
 
