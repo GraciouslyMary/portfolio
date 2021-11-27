@@ -52,7 +52,7 @@ td {
      padding-right: 10px;
 }
 
-.hover_img {
+.hover_img:hover {
     filter: blur(5px);
 filter: brightness(0.4);
 filter: contrast(200%);
