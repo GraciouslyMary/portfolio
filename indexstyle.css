@@ -1,7 +1,6 @@
 html,
 body {
   height: 100%;
-  margin: 0;
   padding: 0;
 }
 
@@ -19,7 +18,7 @@ body
   min-height: 100%;
 }
 
-footer{ background: #C86654; }
+footer{ min-height:50px; background: #C86654; }
 
 table {
   padding-top: 30px;
