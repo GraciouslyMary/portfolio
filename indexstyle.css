@@ -47,7 +47,6 @@ td {
  .responsive_table {
     max-width: 100%;
      height: auto;
-     margin-left: -22%;
     /**margin: 5px 0 10px -50px;**/
   }
 }
