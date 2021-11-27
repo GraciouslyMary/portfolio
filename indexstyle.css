@@ -1,15 +1,23 @@
-
-body
-{ 
-  margin: 0;
-  font-family: "Open Sans", sans-serif;
-  color: #fff;
-  background-color: #EDAEA0;
-  /**flex-direction:column;**/
+html {
+    position: relative;
+    min-height: 100%;
 }
 
-footer{ min-height:50px; background: #C86654; padding: 10px; }
+body {
+    margin: 0 0 100px;
+    /* bottom = footer height */
+    padding: 25px;
+}
 
+footer {
+    background-color: #C86654;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    overflow: hidden;
+}
 
 table {
   padding-top: 30px;
