@@ -12,12 +12,6 @@ body
   /**flex-direction:column;**/
 }
 
-#main-wrapper {
-  display: flex;
-  flex-direction: column;
-  min-height: 100%;
-}
-
 footer{ min-height:50px; background: #C86654; }
 
 table {
