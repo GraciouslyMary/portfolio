@@ -38,22 +38,15 @@ td {
   padding-left: 25%;
 }
 
-#parent_div_1, #parent_div_2{
-    width:100px;
-    height:100px;
-    margin-right:10px;
-    float:left;
-}
-.child_div_1{
-    float:left;
-    margin-right:5px;
+.image {
+ height: auto;
+ width: 250px;
+ float:right;
 }
 
-.child_div_1 img{
-  width: 50%;
-  height: 50%;
+#table-1, #table-2, #table-3 {
+    width: 40%;
 }
-
 
 /**.container img {
 position:absolute;
