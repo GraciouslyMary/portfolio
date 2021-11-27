@@ -49,6 +49,11 @@ td {
     margin-right:5px;
 }
 
+.child_div_1 img{
+  width: 50%;
+  height: 50%;
+}
+
 
 /**.container img {
 position:absolute;
