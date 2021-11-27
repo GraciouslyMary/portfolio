@@ -32,8 +32,8 @@ td {
 }
 
 .responsive_img {
-    float: none;
-    margin: 0 auto;
+  float: none;
+  margin: 0 auto;
   margin-left:15%;
   margin-top:5%
 }
@@ -43,8 +43,7 @@ td {
    .responsive_img {
     max-width: 100%;
      height: auto;
-    float: right;
-    margin: 5px 0 10px 15px;
+    margin: 5px 0 10px -50px;
   }
 }
 
