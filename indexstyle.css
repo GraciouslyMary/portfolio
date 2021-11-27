@@ -13,10 +13,10 @@ footer {
     position: absolute;
     left: 0;
     bottom: 0;
-    height: 60px;
+    height: 50px;
     width: 100%;
     overflow: hidden;
-    padding-top: 15px;
+    padding-top: 10px;
 }
 
 table {
@@ -76,6 +76,7 @@ td {
 #group_icons {
      max-width: 100%;
      height: auto;
+    margin-right: -3px;
 }
     
 }
