@@ -33,6 +33,7 @@ td {
 
 .responsive_img {
   float: none;
+  margin-left: 15%;
 }
 
 /* Extra small devices (phones, 600px and down) */
@@ -40,7 +41,7 @@ td {
    .responsive_img {
     max-width: 100%;
      height: auto;
-     margin-left: -22%;
+     margin-left: -15%;
     /**margin: 5px 0 10px -50px;**/
   }
 
