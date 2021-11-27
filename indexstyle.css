@@ -19,6 +19,8 @@ body
   min-height: 100%;
 }
 
+footer{ background: #C86654; }
+
 table {
   padding-top: 30px;
 }
