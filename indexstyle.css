@@ -14,8 +14,7 @@ footer{
 }
 
 table {
-  padding-left: 15px;
-  padding-top: 15px;
+  padding-top: 30px;
 }
 
 td {
@@ -49,7 +48,7 @@ td {
  .responsive_table {
     max-width: 100%;
      height: auto;
-    margin-left: 7%;
+    margin-left: 5%;
     /**margin: 5px 0 10px -50px;**/
   }
 }
