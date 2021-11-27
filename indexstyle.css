@@ -43,6 +43,14 @@ td {
   margin-left: 20%;
 }
 
+ #avatar_icon {
+     padding-left: 10px;
+}
+
+#group_icons {
+     padding-right: 10px;
+}
+
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
    .responsive_img {
@@ -59,11 +67,18 @@ td {
     /**margin: 5px 0 10px -50px;**/
   }
   
-  .responsive_footer {
+ #avatar_icon {
     max-width: 100%;
      height: auto;
-    /**margin: 5px 0 10px -50px;**/
-  }
+      margin-left: 5%;
+}
+
+#group_icons {
+     max-width: 100%;
+     height: auto;
+     margin-left: 5%;
+}
+    
 }
 
 /* Extra small devices (phones, 600px and down)
