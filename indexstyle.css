@@ -54,6 +54,12 @@ td {
     margin-left: 5%;
     /**margin: 5px 0 10px -50px;**/
   }
+  
+  .responsive_footer {
+    max-width: 100%;
+     height: auto;
+    /**margin: 5px 0 10px -50px;**/
+  }
 }
 
 /* Extra small devices (phones, 600px and down)
