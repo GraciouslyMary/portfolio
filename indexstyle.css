@@ -8,7 +8,7 @@ body
   /**flex-direction:column;**/
 }
 
-footer{ min-height:50px; background: #C86654; }
+footer{ min-height:50px; background: #C86654; padding: 10px; }
 
 
 table {
