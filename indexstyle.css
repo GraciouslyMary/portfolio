@@ -1,7 +1,10 @@
+* {
+    cursor: url('cursor_resized.png'), auto;
+}
+
 html {
     position: relative;
     min-height: 100%;
-    cursor: url('cursor_resized.png'), auto;
 }
 
 body {
