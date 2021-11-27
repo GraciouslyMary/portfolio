@@ -1,6 +1,7 @@
 
 body
 { 
+  margin: 0;
   font-family: "Open Sans", sans-serif;
   color: #fff;
   background-color: #EDAEA0;
@@ -8,6 +9,10 @@ body
 }
 
 footer{ min-height:50px; background: #C86654; }
+
+footer{
+  margin-top:auto; 
+}
 
 table {
   padding-top: 30px;
