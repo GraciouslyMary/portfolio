@@ -37,6 +37,14 @@ td {
   margin-top:5%
 }
 
+.responsive_table {
+  float: none;
+  margin-left: 15%;
+  margin-top: 5%
+  margin-left: 0%;
+  float:top;
+}
+
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
    .responsive_img {
