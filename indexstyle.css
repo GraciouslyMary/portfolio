@@ -31,13 +31,30 @@ td {
   padding-left: 25%;
 }
 
+.responsive_img {
+    float: none;
+    margin: 0 auto;
+  margin-left:15%;
+  margin-top:5%
+}
+
 /* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+   .responsive_img {
+    max-width: 100%;
+     height: auto;
+    float: right;
+    margin: 5px 0 10px 15px;
+  }
+}
+
+/* Extra small devices (phones, 600px and down)
 @media only screen and (max-width: 600px) {
   .responsive_img { 
   max-width: 100%;
   height: auto;
   }
-}
+} */
 
 /**.container img {
 position:absolute;
