@@ -13,6 +13,17 @@ body {
     background-color: #7FB7BE;
 }
 
+.opening_icon {
+    margin-left: 540px;
+    margin-top: 60px;
+}
+
+.password_icon {
+    margin-left: 500px;
+    margin-top: 10px;
+}
+
+
 footer {
     background-color: #DA8979;
     position: absolute;
