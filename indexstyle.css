@@ -4,6 +4,10 @@ html {
     cursor: url('cursor_resized.png'), auto!important;
 }
 
+.pointer {
+        cursor: url('cursor_resized.png'), auto!important;
+      }
+
 body {
     margin: 0 0 100px;
     background-color: #EDAEA0;
