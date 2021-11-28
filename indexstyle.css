@@ -1,5 +1,5 @@
 * {
-    cursor: url('cursor_resized.png'), auto;
+    cursor: url('cursor_resized.png'), auto!important;
 }
 
 html {
