@@ -128,16 +128,16 @@ filter: opacity(50%);
 
 .arrow_left {
   position: absolute;
-  top: 30px;
-  left: 30px;
-  width: 30px;
+  top: 105px;
+  left: 815px;
+  width: 15px;
 }
 
 .arrow_right {
   position: absolute;
-  top: 30px;
-  left: 30px;
-  width: 30px;
+  top: 105px;
+  left: 850px;
+  width: 15px;
 }
 
 /* Extra small devices (phones, 600px and down) */
