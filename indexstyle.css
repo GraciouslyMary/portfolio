@@ -76,6 +76,8 @@ td {
 filter: opacity(50%);
 }
 
+/**graphic_design.html**/
+
 .parent {
   position: relative;
   top: 0;
@@ -122,6 +124,20 @@ filter: opacity(50%);
   top: 315px;
   left: 620px;
   width: 122px;
+}
+
+.arrow_left {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  width: 30px;
+}
+
+.arrow_right {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  width: 30px;
 }
 
 /* Extra small devices (phones, 600px and down) */
