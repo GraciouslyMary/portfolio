@@ -82,10 +82,11 @@ filter: opacity(50%);
   left: 0;
 }
 
-.graphic_design_banner {
+.window {
   position: relative;
   top: 25px;
   left: 230px;
+  width: 500px;
 }
 
 .icon1 {
