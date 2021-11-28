@@ -1,15 +1,16 @@
-* {
-    cursor: url('cursor_resized.png'), auto!important;
-}
-
 html {
     position: relative;
     min-height: 100%;
+    cursor: url('cursor_resized.png'), auto!important;
 }
 
 body {
     margin: 0 0 100px;
     background-color: #EDAEA0;
+}
+
+.opening {
+    background-color: #7FB7BE;
 }
 
 footer {
