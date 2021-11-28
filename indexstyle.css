@@ -76,6 +76,24 @@ td {
 filter: opacity(50%);
 }
 
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.graphic_design_banner {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.packaging_icon {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
    .responsive_img {
