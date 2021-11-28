@@ -84,44 +84,44 @@ filter: opacity(50%);
 
 .window {
   position: relative;
-  top: 25px;
+  top: 30px;
   left: 230px;
   width: 500px;
 }
 
 .icon1 {
   position: absolute;
-  top: 170px;
-  left: 495px;
+  top: 165px;
+  left: 490px;
   width: 123px;
 }
 
 .icon2 {
   position: absolute;
-  top: 170px;
-  left: 625px;
+  top: 165px;
+  left: 620px;
   width: 120px;
 }
 
 .icon3 {
   position: absolute;
-  top: 170px;
-  left: 750px;
-  width: 120px;
+  top: 165px;
+  left: 740px;
+  width: 125px;
 }
 
 .icon4 {
   position: absolute;
   top: 315px;
-  left: 495px;
+  left: 490px;
   width: 120px;
 }
 
 .icon5 {
   position: absolute;
   top: 315px;
-  left: 625px;
-  width: 120px;
+  left: 620px;
+  width: 122px;
 }
 
 /* Extra small devices (phones, 600px and down) */
