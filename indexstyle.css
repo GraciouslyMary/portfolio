@@ -92,32 +92,35 @@ filter: opacity(50%);
   position: absolute;
   top: 170px;
   left: 495px;
-    width: 123px;
+  width: 123px;
 }
 
 .icon2 {
   position: absolute;
   top: 170px;
   left: 625px;
-    width: 120px;
+  width: 120px;
 }
 
 .icon3 {
   position: absolute;
   top: 170px;
   left: 750px;
+  width: 120px;
 }
 
 .icon4 {
   position: absolute;
   top: 315px;
   left: 495px;
+  width: 120px;
 }
 
 .icon5 {
   position: absolute;
   top: 315px;
   left: 625px;
+  width: 120px;
 }
 
 /* Extra small devices (phones, 600px and down) */
