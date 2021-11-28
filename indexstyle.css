@@ -92,12 +92,14 @@ filter: opacity(50%);
   position: absolute;
   top: 170px;
   left: 495px;
+    width: 120px;
 }
 
 .icon2 {
   position: absolute;
   top: 170px;
   left: 625px;
+    width: 120px;
 }
 
 .icon3 {
