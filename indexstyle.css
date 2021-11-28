@@ -84,11 +84,35 @@ filter: opacity(50%);
 
 .graphic_design_banner {
   position: relative;
-  top: 0;
-  left: 0;
+  top: 25px;
+  left: 230px;
 }
 
-.packaging_icon {
+.icon1 {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+
+.icon2 {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+
+.icon3 {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+
+.icon4 {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+
+.icon5 {
   position: absolute;
   top: 30px;
   left: 30px;
