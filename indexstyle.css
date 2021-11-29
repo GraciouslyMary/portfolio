@@ -140,6 +140,11 @@ filter: opacity(50%);
   width: 15px;
 }
 
+.filter {
+    filter: blur(5px);
+    filter: sepia(50%);
+}
+
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
    .responsive_img {
