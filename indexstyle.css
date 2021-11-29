@@ -167,12 +167,6 @@ filter: opacity(50%);
   width: 30px;
 }
 
-.svg_footer {
-  position: relative;
-  top: 0;
-  left: 0;
-}
-
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
    .responsive_img {
