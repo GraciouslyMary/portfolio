@@ -140,6 +140,13 @@ filter: opacity(50%);
   width: 15px;
 }
 
+.grandparent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+
 .packaging_info {
   position: relative;
   top: 10px;
