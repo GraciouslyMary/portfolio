@@ -142,9 +142,9 @@ filter: opacity(50%);
 
 .packaging_info {
   position: absolute;
-  top: 50px;
-  left: 50px;
-  width: 50px;
+  top: 10px;
+  left: 420px;
+  width: 550px;
 }
 
 /* Extra small devices (phones, 600px and down) */
