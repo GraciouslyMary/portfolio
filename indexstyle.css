@@ -140,15 +140,15 @@ filter: opacity(50%);
   width: 15px;
 }
 
-.info {
+.img {
   position: relative;
   top: 10px;
   left: 200px;
   width: 550px;
 }
 
-.info_footer {
-  position: relative;
+.caption {
+  position: absolute;
   top: 10px;
   left: 200px;
   width: 550px;
