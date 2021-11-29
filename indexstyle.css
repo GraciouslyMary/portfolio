@@ -142,22 +142,23 @@ filter: opacity(50%);
 
 .img {
   position: relative;
-  top: 10px;
-  left: 200px;
+  top: 20px;
+  left: 170px;
   width: 550px;
 }
 
 .caption {
   position: absolute;
-  top: 10px;
-  left: 200px;
-  width: 550px;
+  top: 395px;
+  left: 600px;
+  width: 400px;
 }
 
 .close {
   position: absolute;
-  top: 0;
-  left: 0;
+  top: 38px;
+  left: 895px;
+  width: 20px;
 }
 
 .svg {
