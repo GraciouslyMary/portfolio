@@ -141,7 +141,7 @@ filter: opacity(50%);
 }
 
 .packaging_info {
-  position: absolute;
+  position: relative;
   top: 10px;
   left: 420px;
   width: 550px;
