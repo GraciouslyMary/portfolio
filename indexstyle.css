@@ -122,7 +122,7 @@ filter: opacity(50%);
 .icon5 {
   position: absolute;
   top: 315px;
-  left: 620px;
+  left: 615px;
   width: 120px;
 }
 
@@ -138,10 +138,6 @@ filter: opacity(50%);
   top: 105px;
   left: 850px;
   width: 15px;
-}
-
-.filter {
-    filter: blur(5px) sepia(50%);
 }
 
 /* Extra small devices (phones, 600px and down) */
