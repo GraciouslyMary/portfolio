@@ -30,7 +30,7 @@ body {
 
 footer {
     background-color: #DA8979;
-    position: absolute;
+    position: fixed;
     left: 0;
     bottom: 0;
     height: 50px;
