@@ -140,10 +140,10 @@ filter: opacity(50%);
   width: 15px;
 }
 
-.packaging_info {
+.info {
   position: relative;
   top: 10px;
-  left: 420px;
+  left: 200px;
   width: 550px;
 }
 
