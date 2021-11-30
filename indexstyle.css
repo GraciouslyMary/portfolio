@@ -140,6 +140,20 @@ filter: opacity(50%);
   width: 15px;
 }
 
+.img_arrow_left {
+  position: absolute;
+  top: 105px;
+  left: 815px;
+  width: 15px;
+}
+
+.img_arrow_right {
+  position: absolute;
+  top: 105px;
+  left: 850px;
+  width: 15px;
+}
+
 .img {
   position: relative;
   top: 20px;
