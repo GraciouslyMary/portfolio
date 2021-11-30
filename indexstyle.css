@@ -175,11 +175,10 @@ filter: opacity(50%);
   width: 20px;
 }
 
-.svg {
-  position: relative;
+.vid {
+  position: absolute;
   top: 30px;
   left: 30px;
-  width: 30px;
 }
 
 /* Extra small devices (phones, 600px and down) */
