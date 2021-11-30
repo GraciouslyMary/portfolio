@@ -184,7 +184,7 @@ filter: opacity(50%);
 }
 
 /* Extra small devices (phones, 600px and down) */
-@media screen and (max-width: 600px) {
+@media only screen and (max-width : 850px) {
 
    .responsive_img {
     max-width: 100%;
@@ -299,8 +299,8 @@ filter: opacity(50%);
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
-@media screen and (min-width: 601px) and (max-width: 768px) {
-   .responsive_table {
+@media only screen and (min-width : 601px) {
+    .responsive_table {
     max-width: 100%;
      height: auto;
     margin-left: 14%;
