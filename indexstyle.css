@@ -299,7 +299,7 @@ filter: opacity(50%);
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
-@media screen and (min-width: 600px) and (max-width: 768px) {
+@media only screen and (max-width: 768px), (min-width: 600px) {
    .responsive_table {
     max-width: 100%;
      height: auto;
