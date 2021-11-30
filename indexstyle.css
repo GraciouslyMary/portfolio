@@ -282,18 +282,18 @@ filter: opacity(50%);
   }
     
      .arrow_left {
-    max-width: 23%;
+    max-width: 10px;
      height: auto;
-     margin-top: 148px;
-     margin-left: -505px;
+     margin-top: 231px;
+     margin-left: -590px;
     /**margin: 5px 0 10px -50px;**/
   }
     
      .arrow_right {
-    max-width: 23%;
+    max-width: 10px;
      height: auto;
-     margin-top: 148px;
-     margin-left: -505px;
+     margin-top: 231px;
+     margin-left: -600px;
     /**margin: 5px 0 10px -50px;**/
   }
 }
