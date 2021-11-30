@@ -303,7 +303,7 @@ filter: opacity(50%);
    .responsive_table {
     max-width: 100%;
      height: auto;
-    margin-left: 5%;
+    margin-left: 14%;
     /**margin: 5px 0 10px -50px;**/
   }
     
@@ -311,14 +311,14 @@ filter: opacity(50%);
     max-width: 95%;
      height: auto;
      margin-top: 260px;
-     margin-left: -460px;
+     margin-left: -495px;
     /**margin: 5px 0 10px -50px;**/
   }
     
     .icon1 {
     max-width: 23%;
      height: auto;
-     margin-top: 210px;
+     margin-top: 225px;
      margin-left: -455px;
     /**margin: 5px 0 10px -50px;**/
   }
@@ -326,23 +326,23 @@ filter: opacity(50%);
     .icon2 {
     max-width: 22.5%;
      height: auto;
-     margin-top: 210px;
-     margin-left: -509px;
+     margin-top: 225px;
+     margin-left: -495px;
     /**margin: 5px 0 10px -50px;**/
   }
     
     .icon3 {
     max-width: 23.5%;
      height: auto;
-     margin-top: 210px;
-     margin-left: -556px;
+     margin-top: 225px;
+     margin-left: -528px;
     /**margin: 5px 0 10px -50px;**/
   }
     
     .icon4 {
     max-width: 23%;
      height: auto;
-     margin-top: 148px;
+     margin-top: 175px;
      margin-left: -455px;
     /**margin: 5px 0 10px -50px;**/
   }
@@ -350,24 +350,24 @@ filter: opacity(50%);
     .icon5 {
     max-width: 23%;
      height: auto;
-     margin-top: 148px;
-     margin-left: -505px;
+     margin-top: 175px;
+     margin-left: -495px;
     /**margin: 5px 0 10px -50px;**/
   }
     
      .arrow_left {
-    max-width: 23%;
+    max-width: 10px;
      height: auto;
-     margin-top: 148px;
-     margin-left: -505px;
+     margin-top: 240px;
+     margin-left: -544px;
     /**margin: 5px 0 10px -50px;**/
   }
     
      .arrow_right {
-    max-width: 23%;
+    max-width: 10px;
      height: auto;
-     margin-top: 148px;
-     margin-left: -505px;
+     margin-top: 240px;
+     margin-left: -555px;
     /**margin: 5px 0 10px -50px;**/
   }
 }
