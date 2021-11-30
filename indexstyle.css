@@ -142,15 +142,15 @@ filter: opacity(50%);
 
 .img_arrow_left {
   position: absolute;
-  top: 105px;
-  left: 815px;
+  top: 35px;
+  left: 825px;
   width: 15px;
 }
 
 .img_arrow_right {
   position: absolute;
-  top: 105px;
-  left: 850px;
+  top: 35px;
+  left: 860px;
   width: 15px;
 }
 
