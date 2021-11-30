@@ -177,8 +177,10 @@ filter: opacity(50%);
 
 .vid {
   position: absolute;
-  top: 30px;
-  left: 30px;
+  top: 100px;
+  left: 428px;
+  width: 476px;
+  height: 268px;
 }
 
 /* Extra small devices (phones, 600px and down) */
