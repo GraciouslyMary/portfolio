@@ -286,66 +286,66 @@ filter: opacity(50%);
 }
 
 /** Small devices (portrait tablets and large phones, 600px and up) **/
-@media only screen and (min-width : 601px) {
+@media only screen and (min-width : 601px) and (max-width: 768px) {
     .responsive_table {
     max-width: 100%;
      height: auto;
-    margin-left: 14%;
+    margin-left: 30%;
   }
     
       .window {
     max-width: 95%;
      height: auto;
      margin-top: 260px;
-     margin-left: -495px;
+     margin-left: -550px;
   }
     
     .icon1 {
     max-width: 23%;
      height: auto;
-     margin-top: 225px;
-     margin-left: -455px;
+     margin-top: 260px;
+     margin-left: -330px;
   }
     
     .icon2 {
     max-width: 22.5%;
      height: auto;
-     margin-top: 225px;
-     margin-left: -495px;
+     margin-top: 260px;
+     margin-left: -330px;
   }
     
     .icon3 {
     max-width: 23.5%;
      height: auto;
-     margin-top: 225px;
-     margin-left: -528px;
+     margin-top: 260px;
+     margin-left: -330px;
   }
     
     .icon4 {
     max-width: 23%;
      height: auto;
-     margin-top: 175px;
-     margin-left: -455px;
+     margin-top: 260px;
+     margin-left: -330px;
   }
     
     .icon5 {
     max-width: 23%;
      height: auto;
-     margin-top: 175px;
-     margin-left: -495px;
+     margin-top: 260px;
+     margin-left: -330px;
   }
     
      .arrow_left {
-    max-width: 10px;
+    max-width: 15px;
      height: auto;
-     margin-top: 240px;
-     margin-left: -544px;
+     margin-top: 265px;
+     margin-left: -320px;
   }
     
      .arrow_right {
-    max-width: 10px;
+    max-width: 15px;
      height: auto;
-     margin-top: 240px;
-     margin-left: -555px;
+     margin-top: 265px;
+     margin-left: -320px;
   }
 }
