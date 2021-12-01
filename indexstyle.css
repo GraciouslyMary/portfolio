@@ -206,42 +206,42 @@ filter: opacity(50%);
 /**Contact**/
 .contact_img {
   position: relative;
-  top: 30px;
+  top: 50px;
   left: 230px;
   width: 500px;
 }
 
 .email {
   position: absolute;
-  top: 115px;
+  top: 135px;
   left: 560px;
   width: 350px;
 }
 
 .fb {
   position: absolute;
-  top: 170px;
+  top: 190px;
   left: 780px;
   width: 200px;
 }
 
 .ig {
   position: absolute;
-  top: 230px;
+  top: 250px;
   left: 660px;
   width: 200px;
 }
 
 .be {
   position: absolute;
-  top: 290px;
+  top: 310px;
   left: 540px;
   width: 200px;
 }
 
 .yt {
   position: absolute;
-  top: 350px;
+  top: 372px;
   left: 430px;
   width: 200px;
 }
