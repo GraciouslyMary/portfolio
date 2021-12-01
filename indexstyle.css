@@ -96,7 +96,7 @@ filter: opacity(50%);
      padding-right: 10px;
 }
 
-/**graphic_design.html**/
+/**Graphic Design/Editing/Animation**/
 
 .parent {
   position: relative;
@@ -201,6 +201,49 @@ filter: opacity(50%);
   left: 428px;
   width: 476px;
   height: 268px;
+}
+
+/**Contact**/
+.contact_img {
+  position: relative;
+  top: 30px;
+  left: 230px;
+  width: 500px;
+}
+
+.email {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  width: 30px;
+}
+
+.fb {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  width: 30px;
+}
+
+.ig {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  width: 30px;
+}
+
+.be {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  width: 30px;
+}
+
+.yt {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  width: 30px;
 }
 
 /** Extra small devices (phones, 600px and down) **/
