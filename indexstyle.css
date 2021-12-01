@@ -63,6 +63,25 @@ td {
   margin-left: 20%;
 }
 
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width : 600px) {
+
+   .responsive_img {
+    max-width: 100%;
+     height: auto;
+     margin-left: -15%;
+    /**margin: 5px 0 10px -50px;**/
+  }
+    
+ /* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width : 601px) and (max-width: 768px) {
+    .responsive_table {
+    max-width: 100%;
+     height: auto;
+    margin-left: 14%;
+    /**margin: 5px 0 10px -50px;**/
+  }
+
  #avatar_icon {
      padding-left: 10px;
 }
@@ -183,21 +202,19 @@ filter: opacity(50%);
   height: 268px;
 }
 
-/* Extra small devices (phones, 600px and down) */
+/** Extra small devices (phones, 600px and down)
 @media only screen and (max-width : 600px) {
 
    .responsive_img {
     max-width: 100%;
      height: auto;
      margin-left: -15%;
-    /**margin: 5px 0 10px -50px;**/
-  }
+  } 
 
  .responsive_table {
     max-width: 100%;
      height: auto;
     margin-left: 5%;
-    /**margin: 5px 0 10px -50px;**/
   }
   
  #avatar_icon {
@@ -216,21 +233,18 @@ filter: opacity(50%);
      height: auto;
      margin-left: 60px;
      margin-top: 100px;
-    /**margin: 5px 0 10px -50px;**/
   }
     
     .password_icon {
     max-width: 100%;
      height: auto;
      margin-left: 30px;
-    /**margin: 5px 0 10px -50px;**/
   }
     
     .opening_button {
     max-width: 100%;
      height: auto;
      margin-left: 0;
-    /**margin: 5px 0 10px -50px;**/
   }
     
    .window {
@@ -238,7 +252,6 @@ filter: opacity(50%);
      height: auto;
      margin-top: 260px;
      margin-left: -460px;
-    /**margin: 5px 0 10px -50px;**/
   }
     
     .icon1 {
@@ -246,7 +259,6 @@ filter: opacity(50%);
      height: auto;
      margin-top: 210px;
      margin-left: -455px;
-    /**margin: 5px 0 10px -50px;**/
   }
     
     .icon2 {
@@ -254,7 +266,6 @@ filter: opacity(50%);
      height: auto;
      margin-top: 210px;
      margin-left: -509px;
-    /**margin: 5px 0 10px -50px;**/
   }
     
     .icon3 {
@@ -262,7 +273,6 @@ filter: opacity(50%);
      height: auto;
      margin-top: 210px;
      margin-left: -556px;
-    /**margin: 5px 0 10px -50px;**/
   }
     
     .icon4 {
@@ -270,7 +280,6 @@ filter: opacity(50%);
      height: auto;
      margin-top: 148px;
      margin-left: -455px;
-    /**margin: 5px 0 10px -50px;**/
   }
     
     .icon5 {
@@ -278,7 +287,6 @@ filter: opacity(50%);
      height: auto;
      margin-top: 148px;
      margin-left: -505px;
-    /**margin: 5px 0 10px -50px;**/
   }
     
      .arrow_left {
@@ -286,7 +294,6 @@ filter: opacity(50%);
      height: auto;
      margin-top: 231px;
      margin-left: -590px;
-    /**margin: 5px 0 10px -50px;**/
   }
     
      .arrow_right {
@@ -294,17 +301,15 @@ filter: opacity(50%);
      height: auto;
      margin-top: 231px;
      margin-left: -600px;
-    /**margin: 5px 0 10px -50px;**/
   }
-}
+}**/
 
-/* Small devices (portrait tablets and large phones, 600px and up) */
+/** Small devices (portrait tablets and large phones, 600px and up) 
 @media only screen and (min-width : 601px) {
     .responsive_table {
     max-width: 100%;
      height: auto;
     margin-left: 14%;
-    /**margin: 5px 0 10px -50px;**/
   }
     
       .window {
@@ -312,7 +317,6 @@ filter: opacity(50%);
      height: auto;
      margin-top: 260px;
      margin-left: -495px;
-    /**margin: 5px 0 10px -50px;**/
   }
     
     .icon1 {
@@ -320,7 +324,6 @@ filter: opacity(50%);
      height: auto;
      margin-top: 225px;
      margin-left: -455px;
-    /**margin: 5px 0 10px -50px;**/
   }
     
     .icon2 {
@@ -328,7 +331,6 @@ filter: opacity(50%);
      height: auto;
      margin-top: 225px;
      margin-left: -495px;
-    /**margin: 5px 0 10px -50px;**/
   }
     
     .icon3 {
@@ -336,7 +338,6 @@ filter: opacity(50%);
      height: auto;
      margin-top: 225px;
      margin-left: -528px;
-    /**margin: 5px 0 10px -50px;**/
   }
     
     .icon4 {
@@ -344,7 +345,6 @@ filter: opacity(50%);
      height: auto;
      margin-top: 175px;
      margin-left: -455px;
-    /**margin: 5px 0 10px -50px;**/
   }
     
     .icon5 {
@@ -352,7 +352,6 @@ filter: opacity(50%);
      height: auto;
      margin-top: 175px;
      margin-left: -495px;
-    /**margin: 5px 0 10px -50px;**/
   }
     
      .arrow_left {
@@ -360,7 +359,6 @@ filter: opacity(50%);
      height: auto;
      margin-top: 240px;
      margin-left: -544px;
-    /**margin: 5px 0 10px -50px;**/
   }
     
      .arrow_right {
@@ -368,6 +366,5 @@ filter: opacity(50%);
      height: auto;
      margin-top: 240px;
      margin-left: -555px;
-    /**margin: 5px 0 10px -50px;**/
   }
-}
+}**/
