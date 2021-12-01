@@ -76,6 +76,26 @@ td {
 filter: opacity(50%);
 }
 
+.paper {
+     margin: 5px;
+     padding-right: 10px;
+}
+
+.folder {
+     margin: 5px;
+     padding-right: 10px;
+}
+
+.web {
+     margin: 5px;
+     padding-right: 10px;
+}
+
+.mail {
+     margin: 5px;
+     padding-right: 10px;
+}
+
 /**graphic_design.html**/
 
 .parent {
