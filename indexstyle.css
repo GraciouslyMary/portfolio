@@ -234,16 +234,16 @@ filter: opacity(50%);
 
 .be {
   position: absolute;
-  top: 30px;
-  left: 30px;
-  width: 30px;
+  top: 290px;
+  left: 540px;
+  width: 200px;
 }
 
 .yt {
   position: absolute;
-  top: 30px;
-  left: 30px;
-  width: 30px;
+  top: 350px;
+  left: 430px;
+  width: 200px;
 }
 
 /** Extra small devices (phones, 600px and down) **/
