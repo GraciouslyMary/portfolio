@@ -55,9 +55,9 @@ td {
 }
 
 .about_me {
-  float: none;
-  margin-left: 20%;
-  padding-left: 25%;
+  width: 450px;
+  margin-left: 300px;
+  margin-top: 40px;
 }
 
  #avatar_icon {
