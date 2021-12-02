@@ -42,28 +42,28 @@ footer {
   position: absolute;
   top: 30px;
   left: 30px;
-  width: 65px;
+  width: 75px;
 }
 
 .works {
   position: absolute;
-  top: 48px;
-  left: 125px;
-  width: 80px;
+  top: 53px;
+  left: 140px;
+  width: 90px;
 }
 
 .resume {
   position: absolute;
-  top: 156px;
-  left: 22px;
-  width: 80px;
+  top: 175px;
+  left: 24px;
+  width: 90px;
 }
 
 .contact {
   position: absolute;
-  top: 160px;
-  left: 125px;
-  width: 80px;
+  top: 180px;
+  left: 140px;
+  width: 90px;
 }
 
 .nav {
