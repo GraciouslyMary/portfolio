@@ -88,12 +88,16 @@ td {
 }
 
  .avatar_icons {
-     padding-left: 10px;
+    float: left;
+    margin-left: 10px;
+    width: 150px;
 }
 
 .group_icons {
-     margin: 5px;
-     padding-right: 10px;
+    float: right;
+    margin-right: 10px;
+    margin-top: 6px;
+    width: 110px;
 }
 
 .hover_img:hover {
