@@ -24,15 +24,17 @@ body {
 }
 
 .password_icon {
+    position: relative;
     margin-left: 510px;
     margin-top: 10px;
     width: 200px;
 }
 
 .opening_button {
-    margin-left: 510px;
+    position: absolute;
+    margin-left: 5px;
     margin-top: 10px;
-    width: 200px;
+    width: 40px;
 }
 
 footer {
