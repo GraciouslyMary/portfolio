@@ -87,11 +87,11 @@ td {
   margin-top: 40px;
 }
 
- #avatar_icon {
+ .avatar_icons {
      padding-left: 10px;
 }
 
-#group_icons {
+.group_icons {
      margin: 5px;
      padding-right: 10px;
 }
