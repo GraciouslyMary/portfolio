@@ -54,13 +54,10 @@ td {
     padding-left: 30px;    
 }
 
-#about_me {
-  padding-left: 25%;
-}
-
-.responsive_img {
+.about_me {
   float: none;
   margin-left: 20%;
+  padding-left: 25%;
 }
 
  #avatar_icon {
@@ -249,7 +246,7 @@ filter: opacity(50%);
 /** Extra small devices (phones, 600px and down) **/
 @media only screen and (max-width : 600px) {
 
-   .responsive_img {
+   .about_me {
     max-width: 100%;
      height: auto;
      margin-left: -15%;
