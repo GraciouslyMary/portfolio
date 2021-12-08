@@ -363,6 +363,49 @@ td {
   margin-left: -19%;
   width: 3%;
 }
+    
+.img_arrow_left {
+  position: absolute;
+  top: 35px;
+  left: 825px;
+  width: 15px;
+}
+
+.img_arrow_right {
+  position: absolute;
+  top: 35px;
+  left: 860px;
+  width: 15px;
+}
+
+.img {
+  position: relative;
+  top: 20px;
+  left: 400px;
+  width: 550px;
+}
+
+.caption {
+  position: absolute;
+  top: 395px;
+  left: 600px;
+  width: 400px;
+}
+
+.close {
+  position: absolute;
+  top: 38px;
+  left: 895px;
+  width: 20px;
+}
+
+.vid {
+  position: absolute;
+  top: 100px;
+  left: 428px;
+  width: 476px;
+  height: 268px;
+}
 
 }
 
