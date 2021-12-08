@@ -290,57 +290,25 @@ td {
     width: 11%;
 }
 
-.about {
-  position: absolute;
-  top: 30px;
-  left: 30px;
-  width: 50%;
-}
-
-.works {
-  position: absolute;
-  top: 53px;
-  left: 140px;
-  width: 50%;
-}
-
-.resume {
-  position: absolute;
-  top: 175px;
-  left: 24px;
-  width: 50%;
-}
-
-.contact {
-  position: absolute;
-  top: 180px;
-  left: 140px;
-  width: 50%;
-}
-
 .nav {
   position: absolute;
-  top: 7px;
-  left: 20%;
+  margin-left: 10%;
+  margin-top: 0;
+  width: 100%;
 }
 
 .about_me {
-  width: 450px;
-  margin-left: 500px;
-  margin-top: 20%;
+  width: 90%;
+  margin-left: 7%;
+  margin-top: 100%;
 }
 
  .avatar_icons {
-    float: left;
-    margin-left: 10px;
-    width: 50%;
+    width: 40%;
 }
 
 .group_icons {
-    float: right;
-    margin-right: 10px;
-    margin-top: 6px;
-    width: 50%;
+    width: 30%;
 }
 
 }
@@ -365,6 +333,28 @@ td {
     margin-top: 0;
     width: 11%;
 }
+    
+.nav {
+  position: absolute;
+  margin-left: 10%;
+  margin-top: 0;
+  width: 100%;
+}
+
+.about_me {
+  width: 90%;
+  margin-left: 7%;
+  margin-top: 100%;
+}
+
+ .avatar_icons {
+    width: 40%;
+}
+
+.group_icons {
+    width: 30%;
+}
+
 }
         
 @media only screen and (min-width: 600px) {
@@ -387,6 +377,28 @@ td {
     margin-top: 0;
     width: 8%;
 }
+    
+.nav {
+  position: absolute;
+  margin-left: 10%;
+  margin-top: 0;
+  width: 100%;
+}
+
+.about_me {
+  width: 90%;
+  margin-left: 7%;
+  margin-top: 100%;
+}
+
+ .avatar_icons {
+    width: 40%;
+}
+
+.group_icons {
+    width: 30%;
+}
+
 }
     
 @media only screen and (min-width: 801px) {
