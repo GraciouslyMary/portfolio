@@ -387,44 +387,44 @@ td {
     
 .contact_img {
   position: relative;
-  margin-top: 50px;
-  margin-left: 455px;
-  width: 500px;
+  margin-top: 100%;
+  margin-left: 6%;
+  width: 90%;
 }
 
 .email {
   position: absolute;
-  margin-top: 135px;
-  margin-left: 560px;
-  width: 350px;
+  margin-top: 114.5%;
+  margin-left: -72%;
+  width: 65%;
 }
 
 .fb {
   position: absolute;
-  margin-top: 190px;
-  margin-left: 780px;
-  width: 200px;
+  margin-top: 125%;
+  margin-left: -35%;
+  width: 37%;
 }
 
 .ig {
   position: absolute;
-  margin-top: 250px;
-  margin-left: 660px;
-  width: 200px;
+  margin-top: 135.5%;
+  margin-left: -56%;
+  width: 37%;
 }
 
 .be {
   position: absolute;
-  margin-top: 310px;
-  margin-left: 540px;
-  width: 200px;
+  margin-top: 146%;
+  margin-left: -76%;
+  width: 37%;
 }
 
 .yt {
   position: absolute;
-  margin-top: 372px;
-  margin-left: 430px;
-  width: 200px;
+  margin-top: 157%;
+  margin-left: -92%;
+  width: 37%;
 }
 }
 
@@ -593,7 +593,48 @@ td {
   width: 75%;
   height: 25%;
 }
+    
+.contact_img {
+  position: relative;
+  margin-top: 100%;
+  margin-left: 6%;
+  width: 90%;
+}
 
+.email {
+  position: absolute;
+  margin-top: 114.5%;
+  margin-left: -72%;
+  width: 65%;
+}
+
+.fb {
+  position: absolute;
+  margin-top: 125%;
+  margin-left: -35%;
+  width: 37%;
+}
+
+.ig {
+  position: absolute;
+  margin-top: 135.5%;
+  margin-left: -56%;
+  width: 37%;
+}
+
+.be {
+  position: absolute;
+  margin-top: 146%;
+  margin-left: -76%;
+  width: 37%;
+}
+
+.yt {
+  position: absolute;
+  margin-top: 157%;
+  margin-left: -92%;
+  width: 37%;
+}
 }
         
 @media only screen and (min-width: 600px) {
@@ -761,7 +802,48 @@ td {
   width: 75%;
   height: 25%;
 }
+    
+.contact_img {
+  position: relative;
+  margin-top: 100%;
+  margin-left: 6%;
+  width: 90%;
+}
 
+.email {
+  position: absolute;
+  margin-top: 114.5%;
+  margin-left: -72%;
+  width: 65%;
+}
+
+.fb {
+  position: absolute;
+  margin-top: 125%;
+  margin-left: -35%;
+  width: 37%;
+}
+
+.ig {
+  position: absolute;
+  margin-top: 135.5%;
+  margin-left: -56%;
+  width: 37%;
+}
+
+.be {
+  position: absolute;
+  margin-top: 146%;
+  margin-left: -76%;
+  width: 37%;
+}
+
+.yt {
+  position: absolute;
+  margin-top: 157%;
+  margin-left: -92%;
+  width: 37%;
+}
 }
     
 @media only screen and (min-width: 801px) {
@@ -928,6 +1010,48 @@ td {
   margin-left: -84%;
   width: 75%;
   height: 25%;
+}
+   
+.contact_img {
+  position: relative;
+  margin-top: 100%;
+  margin-left: 6%;
+  width: 90%;
+}
+
+.email {
+  position: absolute;
+  margin-top: 114.5%;
+  margin-left: -72%;
+  width: 65%;
+}
+
+.fb {
+  position: absolute;
+  margin-top: 125%;
+  margin-left: -35%;
+  width: 37%;
+}
+
+.ig {
+  position: absolute;
+  margin-top: 135.5%;
+  margin-left: -56%;
+  width: 37%;
+}
+
+.be {
+  position: absolute;
+  margin-top: 146%;
+  margin-left: -76%;
+  width: 37%;
+}
+
+.yt {
+  position: absolute;
+  margin-top: 157%;
+  margin-left: -92%;
+  width: 37%;
 }
 }
     
@@ -1098,6 +1222,48 @@ td {
   width: 43%;
   height: 43%;
 }
+
+.contact_img {
+  position: relative;
+  margin-top: 100%;
+  margin-left: 6%;
+  width: 90%;
+}
+
+.email {
+  position: absolute;
+  margin-top: 114.5%;
+  margin-left: -72%;
+  width: 65%;
+}
+
+.fb {
+  position: absolute;
+  margin-top: 125%;
+  margin-left: -35%;
+  width: 37%;
+}
+
+.ig {
+  position: absolute;
+  margin-top: 135.5%;
+  margin-left: -56%;
+  width: 37%;
+}
+
+.be {
+  position: absolute;
+  margin-top: 146%;
+  margin-left: -76%;
+  width: 37%;
+}
+
+.yt {
+  position: absolute;
+  margin-top: 157%;
+  margin-left: -92%;
+  width: 37%;
+}
 }
     
 @media only screen and (min-width: 1281px) {
@@ -1266,5 +1432,47 @@ td {
   margin-left: -47.1%;
   width: 43%;
   height: 43%;
+}
+    
+.contact_img {
+  position: relative;
+  margin-top: 100%;
+  margin-left: 6%;
+  width: 90%;
+}
+
+.email {
+  position: absolute;
+  margin-top: 114.5%;
+  margin-left: -72%;
+  width: 65%;
+}
+
+.fb {
+  position: absolute;
+  margin-top: 125%;
+  margin-left: -35%;
+  width: 37%;
+}
+
+.ig {
+  position: absolute;
+  margin-top: 135.5%;
+  margin-left: -56%;
+  width: 37%;
+}
+
+.be {
+  position: absolute;
+  margin-top: 146%;
+  margin-left: -76%;
+  width: 37%;
+}
+
+.yt {
+  position: absolute;
+  margin-top: 157%;
+  margin-left: -92%;
+  width: 37%;
 }
 }
