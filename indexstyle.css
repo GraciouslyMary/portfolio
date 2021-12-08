@@ -365,9 +365,9 @@ td {
 
 .arrow_right {
   position: absolute;
-  top: 105px;
-  left: 850px;
-  width: 15px;
+  margin-top: 62.5%;
+  margin-left: 77%;
+  width: 3%;
 }
 
 }
