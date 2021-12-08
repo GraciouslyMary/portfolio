@@ -391,8 +391,10 @@ td {
 
 .vid {
   position: absolute;
-  width: 476px;
-  height: 268px;
+  margin-top: 114%;
+  margin-left: -84%;
+  width: 75%;
+  height: 25%;
 }
 
 }
