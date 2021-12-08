@@ -123,57 +123,41 @@ td {
 
 .window {
   position: relative;
-  top: 30px;
-  left: 460px;
   width: 500px;
 }
 
 .icon1 {
   position: absolute;
-  top: 165px;
-  left: 490px;
   width: 123px;
 }
 
 .icon2 {
   position: absolute;
-  top: 165px;
-  left: 620px;
   width: 120px;
 }
 
 .icon3 {
   position: absolute;
-  top: 165px;
-  left: 740px;
   width: 125px;
 }
 
 .icon4 {
   position: absolute;
-  top: 315px;
-  left: 490px;
   width: 120px;
 }
 
 .icon5 {
   position: absolute;
-  top: 315px;
-  left: 615px;
   width: 120px;
 }
 
 .arrow_left {
   position: absolute;
-  top: 105px;
-  left: 815px;
   width: 15px;
 }
 
 .arrow_right {
   position: absolute;
-  top: 105px;
-  left: 850px;
   width: 15px;
 }
 
@@ -334,51 +318,51 @@ td {
 
 .window {
   position: relative;
-  top: 30px;
-  left: 460px;
-  width: 500px;
+  margin-top: 100%;
+  margin-left: 7%;
+  width: 90%;
 }
 
 .icon1 {
   position: absolute;
-  top: 165px;
-  left: 490px;
-  width: 123px;
+  margin-top: 69%;
+  margin-left: 13%;
+  width: 21%;
 }
 
 .icon2 {
   position: absolute;
-  top: 165px;
-  left: 620px;
-  width: 120px;
+  margin-top: 69.2%;
+  margin-left: 36%;
+  width: 20%;
 }
 
 .icon3 {
   position: absolute;
-  top: 165px;
-  left: 740px;
-  width: 125px;
+  margin-top: 69%;
+  margin-left: 57.5%;
+  width: 21%;
 }
 
 .icon4 {
   position: absolute;
-  top: 315px;
-  left: 490px;
-  width: 120px;
+  margin-top: 83%;
+  margin-left: 13%;
+  width: 21%;
 }
 
 .icon5 {
   position: absolute;
-  top: 315px;
-  left: 615px;
-  width: 120px;
+  margin-top: 83%;
+  margin-left: 36%;
+  width: 21%;
 }
 
 .arrow_left {
   position: absolute;
-  top: 105px;
-  left: 815px;
-  width: 15px;
+  margin-top: 62.5%;
+  margin-left: 77%;
+  width: 3%;
 }
 
 .arrow_right {
