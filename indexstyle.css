@@ -76,19 +76,13 @@ footer {
   width: 90px;
 }
 
-.nav {
-  position: absolute;
-  top: 7px;
-  left: 15px;
-}
-
 .about_me {
   width: 450px;
   margin-left: 500px;
   margin-top: 40px;
 }
 
- .avatar_icons {
+.avatar_icons {
     float: left;
     margin-left: 10px;
     width: 150px;
@@ -290,25 +284,46 @@ td {
     width: 11%;
 }
 
-.nav {
-  position: absolute;
-  margin-left: 10%;
-  margin-top: 0;
-  width: 100%;
-}
-
 .about_me {
   width: 90%;
   margin-left: 7%;
   margin-top: 100%;
 }
 
- .avatar_icons {
+.avatar_icons {
     width: 40%;
 }
 
 .group_icons {
     width: 30%;
+}
+    
+.about {
+  position: absolute;
+  margin-top: 5%;
+  margin-left: 20%;
+  width: 23%;
+}
+
+.works {
+  position: absolute;
+  margin-top: 16.5%;
+  margin-left: 55%;
+  width: 28%;
+}
+
+.resume {
+  position: absolute;
+  margin-top: 30%;
+  margin-left: 18%;
+  width: 28%;
+}
+
+.contact {
+  position: absolute;
+  margin-top: 31%;
+  margin-left: 55%;
+  width: 28%;
 }
 
 }
@@ -333,13 +348,6 @@ td {
     margin-top: 0;
     width: 11%;
 }
-    
-.nav {
-  position: absolute;
-  margin-left: 10%;
-  margin-top: 0;
-  width: 100%;
-}
 
 .about_me {
   width: 90%;
@@ -347,12 +355,40 @@ td {
   margin-top: 100%;
 }
 
- .avatar_icons {
+.avatar_icons {
     width: 40%;
 }
 
 .group_icons {
     width: 30%;
+}
+    
+.about {
+  position: absolute;
+  margin-top: 5%;
+  margin-left: 20%;
+  width: 23%;
+}
+
+.works {
+  position: absolute;
+  margin-top: 16.5%;
+  margin-left: 55%;
+  width: 28%;
+}
+
+.resume {
+  position: absolute;
+  margin-top: 30%;
+  margin-left: 18%;
+  width: 28%;
+}
+
+.contact {
+  position: absolute;
+  margin-top: 31%;
+  margin-left: 55%;
+  width: 28%;
 }
 
 }
@@ -377,13 +413,6 @@ td {
     margin-top: 0;
     width: 8%;
 }
-    
-.nav {
-  position: absolute;
-  margin-left: 10%;
-  margin-top: 0;
-  width: 100%;
-}
 
 .about_me {
   width: 90%;
@@ -391,12 +420,40 @@ td {
   margin-top: 100%;
 }
 
- .avatar_icons {
+.avatar_icons {
     width: 40%;
 }
 
 .group_icons {
     width: 30%;
+}
+    
+.about {
+  position: absolute;
+  margin-top: 5%;
+  margin-left: 20%;
+  width: 23%;
+}
+
+.works {
+  position: absolute;
+  margin-top: 16.5%;
+  margin-left: 55%;
+  width: 28%;
+}
+
+.resume {
+  position: absolute;
+  margin-top: 30%;
+  margin-left: 18%;
+  width: 28%;
+}
+
+.contact {
+  position: absolute;
+  margin-top: 31%;
+  margin-left: 55%;
+  width: 28%;
 }
 
 }
