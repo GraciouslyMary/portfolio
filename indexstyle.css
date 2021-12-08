@@ -42,10 +42,10 @@ footer {
     position: absolute;
     left: 0;
     bottom: 0;
-    height: 50px;
+    height: auto;
     width: 100%;
     overflow: hidden;
-    padding-top: 10px;
+    padding-top: 2%;
 }
 
 .about {
