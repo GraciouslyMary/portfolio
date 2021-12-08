@@ -482,46 +482,48 @@ td {
 }
 
 .about_me {
-  width: 90%;
-  margin-left: 7%;
-  margin-top: 100%;
-  margin-bottom: 20%;
+  width: 50%;
+  margin-left: 35%;
+  margin-top: 10%;
+  margin-bottom: 5%;
 }
 
 .avatar_icons {
-    width: 40%;
+    margin-top: -10px;
+    width: 15%;
 }
 
 .group_icons {
-    width: 30%;
+    margin-top: 0;
+    width: 10%;
 }
     
 .about {
   position: absolute;
-  margin-top: 10%;
-  margin-left: 20%;
-  width: 23%;
+  margin-top: 4%;
+  margin-left: 5%;
+  width: 6%;
 }
 
 .works {
   position: absolute;
-  margin-top: 16.5%;
-  margin-left: 53%;
-  width: 28%;
+  margin-top: 5%;
+  margin-left: 15%;
+  width: 8%;
 }
 
 .resume {
   position: absolute;
-  margin-top: 55%;
-  margin-left: 18%;
-  width: 28%;
+  margin-top: 17%;
+  margin-left: 4%;
+  width: 8%;
 }
 
 .contact {
   position: absolute;
-  margin-top: 57%;
-  margin-left: 53%;
-  width: 28%;
+  margin-top: 17.5%;
+  margin-left: 15%;
+  width: 8%;
 }
 }
     
