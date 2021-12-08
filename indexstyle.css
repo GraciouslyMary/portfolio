@@ -325,6 +325,68 @@ td {
   margin-left: 53%;
   width: 28%;
 }
+    
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.window {
+  position: relative;
+  top: 30px;
+  left: 460px;
+  width: 500px;
+}
+
+.icon1 {
+  position: absolute;
+  top: 165px;
+  left: 490px;
+  width: 123px;
+}
+
+.icon2 {
+  position: absolute;
+  top: 165px;
+  left: 620px;
+  width: 120px;
+}
+
+.icon3 {
+  position: absolute;
+  top: 165px;
+  left: 740px;
+  width: 125px;
+}
+
+.icon4 {
+  position: absolute;
+  top: 315px;
+  left: 490px;
+  width: 120px;
+}
+
+.icon5 {
+  position: absolute;
+  top: 315px;
+  left: 615px;
+  width: 120px;
+}
+
+.arrow_left {
+  position: absolute;
+  top: 105px;
+  left: 815px;
+  width: 15px;
+}
+
+.arrow_right {
+  position: absolute;
+  top: 105px;
+  left: 850px;
+  width: 15px;
+}
 
 }
 
@@ -547,9 +609,9 @@ td {
 }
 
 .about_me {
-  width: 50%;
-  margin-left: 35%;
-  margin-top: 10%;
+  width: 40%;
+  margin-left: 40%;
+  margin-top: 5%;
   margin-bottom: 5%;
 }
 
