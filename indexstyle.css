@@ -193,43 +193,31 @@ td {
 /**Contact**/
 .contact_img {
   position: relative;
-  top: 50px;
-  left: 455px;
   width: 500px;
 }
 
 .email {
   position: absolute;
-  top: 135px;
-  left: 560px;
   width: 350px;
 }
 
 .fb {
   position: absolute;
-  top: 190px;
-  left: 780px;
   width: 200px;
 }
 
 .ig {
   position: absolute;
-  top: 250px;
-  left: 660px;
   width: 200px;
 }
 
 .be {
   position: absolute;
-  top: 310px;
-  left: 540px;
   width: 200px;
 }
 
 .yt {
   position: absolute;
-  top: 372px;
-  left: 430px;
   width: 200px;
 }
 
@@ -399,43 +387,43 @@ td {
     
 .contact_img {
   position: relative;
-  top: 50px;
-  left: 455px;
+  margin-top: 50px;
+  margin-left: 455px;
   width: 500px;
 }
 
 .email {
   position: absolute;
-  top: 135px;
-  left: 560px;
+  margin-top: 135px;
+  margin-left: 560px;
   width: 350px;
 }
 
 .fb {
   position: absolute;
-  top: 190px;
-  left: 780px;
+  margin-top: 190px;
+  margin-left: 780px;
   width: 200px;
 }
 
 .ig {
   position: absolute;
-  top: 250px;
-  left: 660px;
+  margin-top: 250px;
+  margin-left: 660px;
   width: 200px;
 }
 
 .be {
   position: absolute;
-  top: 310px;
-  left: 540px;
+  margin-top: 310px;
+  margin-left: 540px;
   width: 200px;
 }
 
 .yt {
   position: absolute;
-  top: 372px;
-  left: 430px;
+  margin-top: 372px;
+  margin-left: 430px;
   width: 200px;
 }
 }
