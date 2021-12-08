@@ -396,7 +396,48 @@ td {
   width: 75%;
   height: 25%;
 }
+    
+.contact_img {
+  position: relative;
+  top: 50px;
+  left: 455px;
+  width: 500px;
+}
 
+.email {
+  position: absolute;
+  top: 135px;
+  left: 560px;
+  width: 350px;
+}
+
+.fb {
+  position: absolute;
+  top: 190px;
+  left: 780px;
+  width: 200px;
+}
+
+.ig {
+  position: absolute;
+  top: 250px;
+  left: 660px;
+  width: 200px;
+}
+
+.be {
+  position: absolute;
+  top: 310px;
+  left: 540px;
+  width: 200px;
+}
+
+.yt {
+  position: absolute;
+  top: 372px;
+  left: 430px;
+  width: 200px;
+}
 }
 
 @media only screen and (min-width: 480px) {
@@ -1064,7 +1105,7 @@ td {
 
 .vid {
   position: absolute;
-  margin-top: 13.5%;
+  margin-top: 13.3%;
   margin-left: -47.1%;
   width: 43%;
   height: 43%;
@@ -1233,7 +1274,7 @@ td {
 
 .vid {
   position: absolute;
-  margin-top: 13.5%;
+  margin-top: 13.3%;
   margin-left: -47.1%;
   width: 43%;
   height: 43%;
