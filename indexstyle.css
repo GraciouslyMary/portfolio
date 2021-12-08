@@ -434,6 +434,7 @@ td {
   position: relative;
   margin-top: 100%;
   margin-left: 7%;
+  margin-bottom: 5%;
   width: 90%;
 }
 
@@ -527,7 +528,7 @@ td {
 .about {
   position: absolute;
   margin-top: 10%;
-  margin-left: 20%;
+  margin-left: 10%;
   width: 23%;
 }
 
@@ -556,6 +557,7 @@ td {
   position: relative;
   margin-top: 100%;
   margin-left: 7%;
+  margin-bottom: 10%;
   width: 90%;
 }
 
@@ -678,6 +680,7 @@ td {
   position: relative;
   margin-top: 100%;
   margin-left: 7%;
+  margin-bottom: 20%;
   width: 90%;
 }
 
