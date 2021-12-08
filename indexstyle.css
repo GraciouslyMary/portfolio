@@ -352,8 +352,8 @@ td {
 
 .arrow_left {
   position: absolute;
-  margin-top: 62.5%;
-  margin-left: 77%;
+  margin-top: 114%;
+  margin-left: -26%%;
   width: 3%;
 }
 
@@ -429,6 +429,62 @@ td {
   margin-left: 53%;
   width: 28%;
 }
+    
+.window {
+  position: relative;
+  margin-top: 100%;
+  margin-left: 7%;
+  width: 90%;
+}
+
+.icon1 {
+  position: absolute;
+  margin-top: 125%;
+  margin-left: -85%;
+  width: 21%;
+}
+
+.icon2 {
+  position: absolute;
+  margin-top: 125%;
+  margin-left: -61%;
+  width: 20.3%;
+}
+
+.icon3 {
+  position: absolute;
+  margin-top: 125%;
+  margin-left: -38%;
+  width: 21%;
+}
+
+.icon4 {
+  position: absolute;
+  margin-top: 151.5%;
+  margin-left: -85%;
+  width: 21%;
+}
+
+.icon5 {
+  position: absolute;
+  margin-top: 151.5%;
+  margin-left: -61%;
+  width: 21%;
+}
+
+.arrow_left {
+  position: absolute;
+  margin-top: 114%;
+  margin-left: -26%%;
+  width: 3%;
+}
+
+.arrow_right {
+  position: absolute;
+  margin-top: 114%;
+  margin-left: -19%;
+  width: 3%;
+}
 
 }
         
@@ -494,6 +550,62 @@ td {
   margin-top: 57%;
   margin-left: 53%;
   width: 28%;
+}
+    
+.window {
+  position: relative;
+  margin-top: 100%;
+  margin-left: 7%;
+  width: 90%;
+}
+
+.icon1 {
+  position: absolute;
+  margin-top: 125%;
+  margin-left: -85%;
+  width: 21%;
+}
+
+.icon2 {
+  position: absolute;
+  margin-top: 125%;
+  margin-left: -61%;
+  width: 20.3%;
+}
+
+.icon3 {
+  position: absolute;
+  margin-top: 125%;
+  margin-left: -38%;
+  width: 21%;
+}
+
+.icon4 {
+  position: absolute;
+  margin-top: 151.5%;
+  margin-left: -85%;
+  width: 21%;
+}
+
+.icon5 {
+  position: absolute;
+  margin-top: 151.5%;
+  margin-left: -61%;
+  width: 21%;
+}
+
+.arrow_left {
+  position: absolute;
+  margin-top: 114%;
+  margin-left: -26%%;
+  width: 3%;
+}
+
+.arrow_right {
+  position: absolute;
+  margin-top: 114%;
+  margin-left: -19%;
+  width: 3%;
 }
 
 }
