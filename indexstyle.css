@@ -359,7 +359,7 @@ td {
   position: relative;
   margin-top: 100%;
   margin-left: 6%;
-  margin-bottom: 5%;
+  margin-bottom: 25%;
   width: 90%;
 }
 
@@ -367,7 +367,6 @@ td {
   position: absolute;
   margin-top: 163%;
   margin-left: -85%;
-  margin-bottom: 25%;
   width: 80%;
 }
 
@@ -569,7 +568,7 @@ td {
   position: relative;
   margin-top: 100%;
   margin-left: 6%;
-  margin-bottom: 5%;
+  margin-bottom: 25%;
   width: 90%;
 }
 
@@ -577,7 +576,6 @@ td {
   position: absolute;
   margin-top: 163%;
   margin-left: -85%;
-  margin-bottom: 25%;
   width: 80%;
 }
 
@@ -780,7 +778,7 @@ position: absolute;
   position: relative;
   margin-top: 100%;
   margin-left: 6%;
-  margin-bottom: 20%;
+  margin-bottom: 35%;
   width: 90%;
 }
 
@@ -788,7 +786,6 @@ position: absolute;
   position: absolute;
   margin-top: 163%;
   margin-left: -85%;
-  margin-bottom: 35%;
   width: 80%;
 }
 
@@ -991,7 +988,7 @@ position: absolute;
   position: relative;
   margin-top: 100%;
   margin-left: 6%;
-  margin-bottom: 20%;
+  margin-bottom: 35%;
   width: 90%;
 }
 
@@ -999,7 +996,6 @@ position: absolute;
   position: absolute;
   margin-top: 163%;
   margin-left: -85%;
-  margin-bottom: 35%;
   width: 80%;
 }
 
@@ -1204,7 +1200,7 @@ position: absolute;
   position: relative;
   margin-top: 5%;
   margin-left: 34%;
-  margin-bottom: 10%;
+  margin-bottom: 15%;
   width: 50%;
 }
 
@@ -1212,7 +1208,6 @@ position: absolute;
   position: absolute;
   margin-top: 39.5%;
   margin-left: -40%;
-  margin-bottom: 15%;
   width: 45%;
 }
 
@@ -1417,7 +1412,7 @@ position: absolute;
   position: relative;
   margin-top: 5%;
   margin-left: 34%;
-  margin-bottom: 10%;
+  margin-bottom: 15%;
   width: 50%;
 }
 
@@ -1425,7 +1420,6 @@ position: absolute;
   position: absolute;
   margin-top: 39.5%;
   margin-left: -40%;
-  margin-bottom: 15%;
   width: 45%;
 }
 
